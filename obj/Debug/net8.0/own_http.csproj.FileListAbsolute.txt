@@ -1,0 +1,17 @@
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/own_http
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/own_http.deps.json
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/own_http.runtimeconfig.json
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/own_http.dll
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/own_http.pdb
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.GeneratedMSBuildEditorConfig.editorconfig
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.AssemblyInfoInputs.cache
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.AssemblyInfo.cs
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.csproj.CoreCompileInputs.cache
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.dll
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/refint/own_http.dll
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.pdb
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.genruntimeconfig.cache
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/ref/own_http.dll
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.csproj.AssemblyReference.cache
+/home/svatoslav/Downloads/own_http/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/svatoslav/Downloads/own_http/obj/Debug/net8.0/own_http.csproj.CopyComplete

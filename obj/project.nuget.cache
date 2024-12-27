@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DcH8rQn3axldICjQbjmozONunJTEuxLdDF3MxEFQgC3LQQ4KRr3eI/cD/uyi2Q0BOEZFE5IWv0NvIoKnOAMWQ==",
+  "success": true,
+  "projectFilePath": "/home/svatoslav/Downloads/own_http/own_http.csproj",
+  "expectedPackageFiles": [
+    "/home/svatoslav/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
