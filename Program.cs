@@ -45,7 +45,7 @@ void HandleClient(Socket clientSocket)
     }
     else if (method == "GET")
     {
-	HandleGET(HttpKit.PathNoPar(path), path);
+	HandleGET(clientSocket, HttpKit.PathNoPar(path), path);
     }
     clientSocket.Close();
 }
