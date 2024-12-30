@@ -42,14 +42,18 @@ public static class HttpKit
         return resp;
     }
 
-    public static byte[] HttpResp(string code, string text){ 
-        string response = $"HTTP/1.1 {code} OK\r\nContent-Type: text/plain\r\n\r\n{text}";
+    public static string ReadStaticFile(string path) {
+        return File.ReadAllText(path);
+    }
+
+    public static byte[] HttpResp(string code, string text, string type){ 
+        string response = $"HTTP/1.1 {code} OK\r\nContent-Type: {type}\r\n\r\n{text}";
         byte[] responseBytes = Encoding.ASCII.GetBytes(response);
         return responseBytes;
     }
 
-    public static byte[] HttpRespError(string code, string text){ 
-        string response = $"HTTP/1.1 {code} Not Found\r\nContent-Type: text/plain\r\n\r\n{text}";
+    public static byte[] HttpRespError(string code, string text, string type){ 
+        string response = $"HTTP/1.1 {code} Not Found\r\nContent-Type: {type}\r\n\r\n{text}";
         byte[] responseBytes = Encoding.ASCII.GetBytes(response);
         return responseBytes;
     }
